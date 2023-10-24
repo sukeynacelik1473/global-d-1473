@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "global değişken örnekleri-1473", "global değişken örnekleri-1473\global değişken örnekleri-1473.csproj", "{0EE7B3DC-4EDC-49CB-BE91-82C1B8E9D19E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE7B3DC-4EDC-49CB-BE91-82C1B8E9D19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE7B3DC-4EDC-49CB-BE91-82C1B8E9D19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE7B3DC-4EDC-49CB-BE91-82C1B8E9D19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE7B3DC-4EDC-49CB-BE91-82C1B8E9D19E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03EA8A71-4280-4F50-9356-0F29C6FDC16B}
+	EndGlobalSection
+EndGlobal
